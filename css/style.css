@@ -9,7 +9,6 @@ div#divmaincontainer{
 /*styling the header of the site*/
 header#siteheader{
   width:50%;
-  height:80px;
-  background-image:linear-gradient(green);
-  border:1px solid darkgrey;
-  border-radius:10px 10px 0 0;
+  height:40px;
+  background-image:linear-gradient(grean,cyan);
+
