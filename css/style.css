@@ -1,8 +1,15 @@
 /*styling divmaincontainer */
 div#divmaincontainer{
   width:120%;
-  height:120%
   margin:auto;
   background-image:linear-gradient(blue,cyan);
  /* border:1px solid turquoise;*/
  }
+/**/
+/*styling the header of the site*/
+header#siteheader{
+  width:50%;
+  height:80px;
+  background-image:linear-gradient(green);
+  border:1px solid darkgrey;
+  border-radius:10px 10px 0 0;
