@@ -9,6 +9,6 @@ div#divmaincontainer{
 /*styling the header of the site*/
 header#siteheader{
   width:50%;
-  height:40px;
+  height:80px;
   background-image:linear-gradient(grean,cyan);
 
