@@ -3,6 +3,6 @@ div#divmaincontainer{
   width:120%;
   height:120%
   margin:auto;
-  background-image:linear-gradient(black);
+  background-image:linear-gradient(blue,cyan);
  /* border:1px solid turquoise;*/
  }
