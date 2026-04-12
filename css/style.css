@@ -1,6 +1,6 @@
 /*styling divmaincontainer */
 div#divmaincontainer{
-  width:80%;
+  width:100%;
   margin:auto;
  /* border:1px solid turquoise;*/
  }
@@ -8,11 +8,11 @@ div#divmaincontainer{
 /**/
 /*styling the header of the site*/
 header#siteheader{
-  width:100%;
-  height:150px;
-  background-image:linear-gradient(greenyellow,cyan,teal);
+  width:50%;
+  height:70px;
+  background-image:linear-gradient(green);
   border:1px solid darkgrey;
-  border-radius:10px 10px 0 0;
+  
 }
 /*styling site title*/
 h1#sitetitle{
@@ -25,7 +25,7 @@ h1#sitetitle{
 /*site motto*/
 span#sitemotto{
   font-size:18px;
-  font-family:tahoma;
+  font-family:serifs;
   font-style:italic;
   color:blue;
   text-align:center;
@@ -35,12 +35,12 @@ span#sitemotto{
 nav#sitenav{
   width:100%;
   height:30px;
-  background-image:radial-gradient(greenyellow,cyan);
+  background-image:radial-gradient(blue);
 }
 
 /*navigation elements*/
 ul#ulnav>li{
-  display:inline;
+  display:vertical;
   list-style-type:none;
 
 }
