@@ -2,7 +2,6 @@
 div#divmaincontainer{
   width:120%;
   margin:auto;
-  background-image:linear-gradient(lightblue);
  /* border:1px solid turquoise;*/
  }
 /**/
@@ -10,5 +9,25 @@ div#divmaincontainer{
 header#siteheader{
   width:50%;
   height:80px;
-  background-image:linear-gradient(green);
+  background-image:linear-gradient(green)
+}
+
+/*styling site title*/
+h1#sitetitle{
+  font-family:Arial;
+  font-size:32px;
+  color:orange;
+  text-align:center;
+  }
+
+/*site motto*/
+span#sitemotto{
+  font-size:18px;
+  font-family:tahoma;
+  font-style:italic;
+  color:blue;
+  text-align:center;
+}
+  
+  
 
