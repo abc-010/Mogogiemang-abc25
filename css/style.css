@@ -2,7 +2,7 @@
 div#divmaincontainer{
   width:120%;
   margin:auto;
-  background-image:linear-gradient(blue,cyan);
+  background-image:linear-gradient(lightblue);
  /* border:1px solid turquoise;*/
  }
 /**/
@@ -10,5 +10,5 @@ div#divmaincontainer{
 header#siteheader{
   width:50%;
   height:80px;
-  background-image:linear-gradient(grean,cyan);
+  background-image:linear-gradient(green);
 
