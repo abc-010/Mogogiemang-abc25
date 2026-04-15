@@ -1,5 +1,8 @@
 /*styling divmaincontainer */
 div#divmaincontainer{
+  width:100%;
+  margin:auto;
+  background-image:"C:\Users\Peo Mogogiemang\OneDrive - Botswana Accountancy College\Documents\fd.jpg"
   
  /* border:1px solid turquoise;*/
  }
