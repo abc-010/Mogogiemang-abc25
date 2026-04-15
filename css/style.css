@@ -2,7 +2,7 @@
 div#divmaincontainer{
   width:100%;
   margin:auto;
-  background-image:"C:\Users\Peo Mogogiemang\OneDrive - Botswana Accountancy College\Documents\fd.jpg"
+  background-image:lightblue;
   
  /* border:1px solid turquoise;*/
  }
@@ -10,10 +10,12 @@ div#divmaincontainer{
 /*styling the header of the site*/
 header#siteheader{
   
+  
 }
 
 /*styling site title*/
 h1#sitetitle{
+  text-align:center;
   
   }
 
