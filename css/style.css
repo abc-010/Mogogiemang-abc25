@@ -1,1 +1,6 @@
-
+/*about background*/
+#about-section{
+  background-image:url(../"images/fd.jpg");
+  background-size:cover;
+  color:white;
+}
