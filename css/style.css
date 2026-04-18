@@ -18,6 +18,7 @@
   font-weight: bold;
   position: relative;
   transition: color 0.3s ease;
+  display:inline;
 }
 
 /* underline animation */
