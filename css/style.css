@@ -1,4 +1,4 @@
-
+/*styling main-content*/
 .main-content {
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
               url("../images/backg.jpg");
@@ -10,4 +10,32 @@
   font-size: 18px;
   line-height: 1.6;
 }
+/*site navigation*/
+.ulnav li a {
+  text-decoration: none;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  position: relative;
+  transition: color 0.3s ease;
+}
 
+/* underline animation */
+.ulnav li a::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 3px;
+  background-color: limegreen;
+  left: 0;
+  bottom: -5px;
+  transition: width 0.3s ease;
+}
+
+.ulnav li a:hover {
+  color: limegreen;
+}
+
+.ulnav li a:hover::after {
+  width: 100%;
+}
