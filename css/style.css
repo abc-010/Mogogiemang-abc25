@@ -1,10 +1,10 @@
 /*styling -container*/
 .container{
-  background: linear-gradient($gray-900);
+  background: line
             
   background-size: cover;
   background-position: center;
-  color: white;
+  color: black
 }
 .section-text {
   font-size: 18px;
