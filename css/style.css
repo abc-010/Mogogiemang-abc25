@@ -11,7 +11,7 @@
   line-height: 1.6;
 }
 *//styling nav//
-<nav class="navbar bg-body-tertiary">
+<nav class="site-nav">
   <div class="container">
     <a class="navbar-brand" href="images/logo2.jpg">
       <img src="images/logo2.jpg" alt="logo2" width="30" height="24">
