@@ -1,13 +1,15 @@
 /*styling -container*/
 .container{
-  background: line
+  background: 
             
-  background-size: cover;
-  background-position: center;
-  color: black
+
 }
 .section-text {
   font-size: 18px;
   line-height: 1.6;
+  position :center;
 }
 /*site navigation*/
+.ulnav{
+    display:inline;
+}
