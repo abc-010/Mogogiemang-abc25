@@ -10,6 +10,6 @@
   position :center;
 }
 /*site navigation*/
-.ulnav{
-    display:inline;
+.ulnav li{
+    display:inline-block
 }
