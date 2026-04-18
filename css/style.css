@@ -1,7 +1,7 @@
 /*styling -container*/
-.container-fluid{
-  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-              url("../images/backg.jpg");
+.container{
+  background: linear-gradient(secondary-color-rgb: 222, 226, 230);
+            
   background-size: cover;
   background-position: center;
   color: white;
