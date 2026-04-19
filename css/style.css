@@ -13,3 +13,15 @@
 .ulnav li{
     display:inline-block
 }
+.navbar {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #000; /* optional */
+}
+
+.logo {
+  height: 60px;       /* control size */
+  width: auto;        /* keeps proportions */
+  object-fit: contain;
+}
