@@ -9,10 +9,12 @@
   transition:0.3s background-colour;
 }
 
+
 .login-button:hover {
   background-color:$red-400;
   color: white;
 }
+
 .navbar-toggler{
      border:none;
      font-size:1.25rem;
@@ -21,7 +23,7 @@
 .navbar-toggler:focus, .btn-close:focus{
      box-shadow:none;
      outline:none;
-  
+}
   
 /*styling nav section*/
 .fitness-text {
@@ -33,9 +35,12 @@
     color:#dc3545;
     font-weight:500;
   }
+
+
 .nav-link:hover, .nav-link.active{
   colour:#000;
 }
+  
   .nav-link::before{
     content:"";
     position:absolute;
@@ -47,6 +52,7 @@
     background-color:$orange-300;
     visibility:hidden;
     transition:0.3s ease-in-0ut;
+  }
     
   
   
