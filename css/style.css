@@ -6,14 +6,48 @@
   border-radius: 5px;
   text-decoration: none;
   font-weight: 500;
+  transition:0.3s background-colour;
 }
 
 .login-button:hover {
-  background-color: #157347;
+  background-color:$red-400;
   color: white;
 }
+.navbar-toggler{
+     border:none;
+     font-size:1.25rem;
+}
+
+.navbar-toggler:focus, .btn-close:focus{
+     box-shadow:none;
+     outline:none;
+  
+  
 /*styling nav section*/
 .fitness-text {
   color: orange;
   font-weight: bold;
 }
+  
+  .nav-link{
+    color:#dc3545;
+    font-weight:500;
+  }
+.nav-link:hover, .nav-link.active{
+  colour:#000;
+}
+  .nav-link::before{
+    content:"";
+    position:absolute;
+    bottom:0;
+    left:50%;
+    transform: translateX(-50%);
+    width:100%;
+    heigth: 2px;
+    background-color:$orange-300;
+    visibility:hidden;
+    transition:0.3s ease-in-0ut;
+    
+  
+  
+  
