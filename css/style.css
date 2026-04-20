@@ -26,11 +26,6 @@
      outline:none;
 }
   
-/*styling nav section*/
-.login-button:hover {
-  background-color: #dc3545;
-  color: white;
-}
 
 .navbar-toggler {
   border: none;
