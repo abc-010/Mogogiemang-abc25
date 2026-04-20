@@ -1,1 +1,12 @@
-
+/*styling button*/
+.login-button{
+       background-color:$blue-600;
+       color:#fff
+       font-size:14px;
+       padding:8px 20px
+       border-radius":40px
+       text-decoration:none;
+}
+.login-button:hover{
+        background-color:$indigo-500;
+}
