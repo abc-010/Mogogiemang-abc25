@@ -111,8 +111,8 @@
  /*styling hero sectio*/
 
 .hero-section {
-  background: url('../images/gym-bg.jpg') no-repeat center center/cover;
-  padding-top:100px;
+  background:grey no-repeat center center/cover;
+  padding-top:100px
   height: 100vh;
   position: relative;
 }
