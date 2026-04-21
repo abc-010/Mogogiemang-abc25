@@ -38,6 +38,11 @@
 }
 
 /* styling nav section */
+.navbar{
+  background-colour: #fff;
+  height:80px;
+}
+
 /*navbar-brand*/
 .fitness-text {
   color: orange;
