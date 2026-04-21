@@ -99,9 +99,10 @@
 }
  
 .hero-section{
-  background:url(images/backg.jpg) no repeat center;
- background-size:cover;
- width:100%;
- height:100vh;
+  background: url("images/backg.jpg") no-repeat center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
  
 }
